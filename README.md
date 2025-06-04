@@ -2,7 +2,6 @@
 
 A sophisticated chess application that combines gameplay with advanced performance analytics and IQ assessment.
 
-![Chess IQ Analyzer Main Screen](assets/screenshots/main_screen.png)
 
 ## Overview
 
@@ -59,7 +58,7 @@ Chess IQ Analyzer is a comprehensive chess platform that not only allows you to 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chess_iq_analyzer.git
+git clone https://github.com/Umang-Kaklotar/Chess_IQ_Analyzer.git
 cd chess_iq_analyzer
 ```
 
@@ -388,31 +387,6 @@ CHESS_IQ_ANALYZER/
    - Use a code editor that shows whitespace characters
    - Run `python -m pytest` to identify syntax issues
 
-### Getting Help
-
-If you encounter any issues:
-
-1. Check the [Issues](https://github.com/yourusername/chess_iq_analyzer/issues) page for known problems
-2. Submit a new issue with details about your problem
-3. Include your system information and any error messages
-4. Attach relevant log files from the logs directory
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m 'Add some amazing feature'`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-
-- Chess piece images from [Chess.com](https://www.chess.com)
 - Inspired by chess analysis tools like [Lichess](https://lichess.org) and [Chess.com](https://www.chess.com)
-- Thanks to all contributors who have helped improve this project
