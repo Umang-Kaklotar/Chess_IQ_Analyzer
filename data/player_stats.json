@@ -1,0 +1,395 @@
+{
+  "games_played": 0,
+  "wins": 0,
+  "losses": 0,
+  "draws": 0,
+  "average_iq": 100,
+  "average_accuracy": 0,
+  "history": [],
+  "games": {
+    "total": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "iq": {
+    "current": 70,
+    "history": [
+      {
+        "timestamp": 1749058525,
+        "iq": 105
+      },
+      {
+        "timestamp": 1749058527,
+        "iq": 102
+      },
+      {
+        "timestamp": 1749058529,
+        "iq": 104
+      },
+      {
+        "timestamp": 1749058531,
+        "iq": 98
+      },
+      {
+        "timestamp": 1749058536,
+        "iq": 97
+      },
+      {
+        "timestamp": 1749058539,
+        "iq": 88
+      },
+      {
+        "timestamp": 1749058542,
+        "iq": 84
+      },
+      {
+        "timestamp": 1749058548,
+        "iq": 81
+      },
+      {
+        "timestamp": 1749058552,
+        "iq": 86
+      },
+      {
+        "timestamp": 1749058560,
+        "iq": 83
+      },
+      {
+        "timestamp": 1749058565,
+        "iq": 85
+      },
+      {
+        "timestamp": 1749058577,
+        "iq": 79
+      },
+      {
+        "timestamp": 1749058581,
+        "iq": 81
+      },
+      {
+        "timestamp": 1749058587,
+        "iq": 75
+      },
+      {
+        "timestamp": 1749058592,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058598,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058602,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058612,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058615,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058618,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058621,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058622,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058627,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058640,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058642,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058655,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058660,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058664,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058667,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058670,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058673,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058685,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058690,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058693,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058698,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058700,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058704,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058710,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058714,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058716,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058719,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058722,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058726,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058728,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058732,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058738,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058742,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058744,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058748,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058753,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058758,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058762,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058767,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058773,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058776,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058781,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058783,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058786,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058790,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058798,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058800,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058803,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058808,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058809,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058812,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058819,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058823,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058825,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058828,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058831,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058834,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058836,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058839,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058845,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058849,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058851,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058855,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058858,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058861,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058869,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058872,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058875,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058878,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058883,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058888,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058890,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058894,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058898,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058901,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058908,
+        "iq": 70
+      },
+      {
+        "timestamp": 1749058912,
+        "iq": 70
+      }
+    ]
+  },
+  "accuracy": {
+    "average": 0,
+    "history": []
+  },
+  "mistakes": {
+    "blunders": 0,
+    "mistakes": 0,
+    "inaccuracies": 0,
+    "good_moves": 0
+  },
+  "improvement_areas": []
+}

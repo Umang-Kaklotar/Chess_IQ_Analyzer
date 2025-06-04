@@ -1,0 +1,111 @@
+{
+    "display": {
+        "board_size": 600,
+        "window_width": 1000,
+        "window_height": 700,
+        "fps": 60,
+        "animation_speed": 5
+    },
+    "colors": {
+        "light_square": [
+            240,
+            217,
+            181
+        ],
+        "dark_square": [
+            181,
+            136,
+            99
+        ],
+        "highlight": [
+            124,
+            252,
+            0
+        ],
+        "move_highlight": [
+            255,
+            255,
+            0
+        ],
+        "last_move": [
+            255,
+            165,
+            0
+        ],
+        "check_highlight": [
+            255,
+            0,
+            0
+        ],
+        "background": [
+            50,
+            50,
+            50
+        ],
+        "text": [
+            255,
+            255,
+            255
+        ],
+        "button": [
+            100,
+            100,
+            100
+        ],
+        "button_hover": [
+            130,
+            130,
+            130
+        ],
+        "accent": [
+            0,
+            120,
+            215
+        ]
+    },
+    "fonts": {
+        "small": {
+            "size": 16,
+            "family": null
+        },
+        "medium": {
+            "size": 24,
+            "family": null
+        },
+        "large": {
+            "size": 32,
+            "family": null
+        },
+        "title": {
+            "size": 48,
+            "family": null
+        }
+    },
+    "game": {
+        "default_time_control": 600,
+        "increment": 0,
+        "ai_difficulty": 3,
+        "show_legal_moves": true,
+        "auto_queen": true,
+        "sound_enabled": true,
+        "flip_board_after_game": false
+    },
+    "analysis": {
+        "engine_depth": 15,
+        "blunder_threshold": -200,
+        "mistake_threshold": -100,
+        "inaccuracy_threshold": -50,
+        "auto_analyze": false
+    },
+    "paths": {
+        "pieces": "assets/pieces",
+        "sounds": "assets/sounds",
+        "logs": "logs",
+        "data": "data"
+    },
+    "logging": {
+        "level": "info",
+        "log_to_file": true,
+        "log_to_console": true
+    }
+}
